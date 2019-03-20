@@ -28,4 +28,22 @@ Woo Commerce integrates directly with PayPal and Beanstream for payments. Both B
 
 ![Sandbox Seller Account](https://rhildred.github.io/UX320-database-child-theme/READMEImages/PayPalSandboxAccounts.png "Sandbox Seller Account")
 
+Put a seller account in the Woo Commerce `payments` screen:
+
+![Payments](https://rhildred.github.io/UX320-database-child-theme/READMEImages/Payments.png "Payments")
+
+At the end you will be faced with this screen:
+
+![Ready](https://rhildred.github.io/UX320-database-child-theme/READMEImages/StoreIsReady.png "Ready")
+
+There is one other step to make your store use the paypal sandbox. In the Woo Commerce settings screen you will need to `enable paypal sandbox.` I also turned on logging.
+
+![enable paypal sandbox](https://rhildred.github.io/UX320-database-child-theme/READMEImages/otherPaypalOptions.png "enable paypal sandbox")
+
+## Make a product
+
+
+
+
+
 
