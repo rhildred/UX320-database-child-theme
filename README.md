@@ -12,7 +12,7 @@ Once we activate the theme we can also activate WooCommerce. WooCommerce takes y
 
 Woo Commerce installs some pages for shopping cart ...
 
-![Setup Pages](https://rhildred.github.io/UX320-database-child-theme/READMEImages/WooCommercePageSetup.png, "Setup Pages")
+![Setup Pages](https://rhildred.github.io/UX320-database-child-theme/READMEImages/WooCommercePageSetup.png "Setup Pages")
 
 
 
