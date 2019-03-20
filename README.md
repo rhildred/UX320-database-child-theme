@@ -1,37 +1,9 @@
-## Welcome to Lab 7-8
+## Taxonomies and WooCommerce
 
-You can use the [editor on GitHub](https://github.com/rhildred/UX320-database-child-theme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+WooCommerce adds a product post_type attribute to the wp_posts database table. In wordpress-speak a new taxonomy. A taxonomy needs to be supported by a theme. Before we activate the WooCommerce plugin we need to activate a theme that knows about the product taxonomy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![WooCommerce friendly theme](https://rhildred.github.io/UX320-database-child-theme/READMEImages/economicsTheme.png "WooCommerce friendly theme")
 
-### Markdown
+Once we activate the theme we can also activate WooCommerce. WooCommerce takes you through a setup wizard:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rhildred/UX320-database-child-theme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Setup Wizard](https://rhildred.github.io/UX320-database-child-theme/READMEImages/WooCommerceScreen1.png "Setup Wizard")
