@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lab 7
 
 You can use the [editor on GitHub](https://github.com/rhildred/UX320-database-child-theme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
