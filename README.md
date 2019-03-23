@@ -42,8 +42,11 @@ There is one other step to make your store use the paypal sandbox. In the Woo Co
 
 ## Make a product
 
+Add a product by going to WooCommerce/Add Product. Don't forget to set a price and a featured image.
 
+![add a product](https://rhildred.github.io/UX320-database-child-theme/READMEImages/AddProduct.png "add a product")
 
+Now you should be able to test all of the features of Woo Commerce and the Paypal Sandbox.
 
 
 
