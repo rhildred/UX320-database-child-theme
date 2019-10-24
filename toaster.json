@@ -1,4 +1,4 @@
 [{"src":"https://github.com/rhildred/wordpress-heroku.git", 
 "target":"/examples/UX320/Feb25-database-child-theme"},
 {"src":"https://github.com/rhildred/wordpress_database_admin.git", 
-"target":"/examples/UX320/Feb25-database-child-theme/wp-content/plugins"}]
+"target":"/examples/UX320/Feb25-database-child-theme/wp-content/plugins/wordpress_database_admin"}]
